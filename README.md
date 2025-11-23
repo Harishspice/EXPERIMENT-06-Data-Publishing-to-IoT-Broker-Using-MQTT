@@ -94,7 +94,7 @@ client.disconnect()
 
 
  ## Simulation Screenshots:
-<img width="1920" height="1152" alt="Screenshot 2025-11-06 091357" src="https://github.com/user-attachments/assets/7465555a-8182-4623-ab3b-fba1a4d5995a" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8654c4ff-688a-40f6-a11e-d041a9cfd538" />
 
 
  ## Results:
